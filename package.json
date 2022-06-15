@@ -1,0 +1,24 @@
+{
+  "name": "lambda-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "sinon": "^7.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitrak1/transient-specialists-aws-lambda.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pitrak1/transient-specialists-aws-lambda/issues"
+  },
+  "homepage": "https://github.com/pitrak1/transient-specialists-aws-lambda#readme"
+}
